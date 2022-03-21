@@ -13,7 +13,7 @@ namespace lab3_LaTrungHoa.Models
         public ApplicationUser Lecturer { get; set; }
 
         [Required]
-        public ApplicationUser LecturerId { get; set; }
+        public string LecturerId { get; set; }
 
         [Required]
         [StringLength(255)]
