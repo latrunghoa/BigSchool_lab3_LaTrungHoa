@@ -111,3 +111,4 @@ D:\Micrisoft Visual Studio - Data\lab3_LaTrungHoa\lab3_LaTrungHoa\obj\Debug\lab3
 D:\Micrisoft Visual Studio - Data\lab3_LaTrungHoa\lab3_LaTrungHoa\obj\Debug\lab3_LaTrungHoa.Migrations.CreateTableCourse.resources
 D:\Micrisoft Visual Studio - Data\lab3_LaTrungHoa\lab3_LaTrungHoa\obj\Debug\lab3_LaTrungHoa.Migrations.PopulateCategoryTable.resources
 D:\Micrisoft Visual Studio - Data\lab3_LaTrungHoa\lab3_LaTrungHoa\obj\Debug\lab3_LaTrungHoa.Migrations.Createnew.resources
+D:\Micrisoft Visual Studio - Data\lab3_LaTrungHoa\lab3_LaTrungHoa\obj\Debug\lab3_LaTrungHoa.Migrations.AddNameColumnToApplicationUser.resources
