@@ -112,3 +112,11 @@ D:\Micrisoft Visual Studio - Data\lab3_LaTrungHoa\lab3_LaTrungHoa\obj\Debug\lab3
 D:\Micrisoft Visual Studio - Data\lab3_LaTrungHoa\lab3_LaTrungHoa\obj\Debug\lab3_LaTrungHoa.Migrations.PopulateCategoryTable.resources
 D:\Micrisoft Visual Studio - Data\lab3_LaTrungHoa\lab3_LaTrungHoa\obj\Debug\lab3_LaTrungHoa.Migrations.Createnew.resources
 D:\Micrisoft Visual Studio - Data\lab3_LaTrungHoa\lab3_LaTrungHoa\obj\Debug\lab3_LaTrungHoa.Migrations.AddNameColumnToApplicationUser.resources
+D:\Micrisoft Visual Studio - Data\lab3_LaTrungHoa\lab3_LaTrungHoa\obj\Debug\lab3_LaTrungHoa.Migrations.UpdateIndex.resources
+D:\Micrisoft Visual Studio - Data\lab3_LaTrungHoa\lab3_LaTrungHoa\bin\System.Net.Http.Formatting.dll
+D:\Micrisoft Visual Studio - Data\lab3_LaTrungHoa\lab3_LaTrungHoa\bin\System.Web.Http.dll
+D:\Micrisoft Visual Studio - Data\lab3_LaTrungHoa\lab3_LaTrungHoa\bin\System.Web.Http.WebHost.dll
+D:\Micrisoft Visual Studio - Data\lab3_LaTrungHoa\lab3_LaTrungHoa\bin\System.Net.Http.Formatting.xml
+D:\Micrisoft Visual Studio - Data\lab3_LaTrungHoa\lab3_LaTrungHoa\bin\System.Web.Http.xml
+D:\Micrisoft Visual Studio - Data\lab3_LaTrungHoa\lab3_LaTrungHoa\bin\System.Web.Http.WebHost.xml
+D:\Micrisoft Visual Studio - Data\lab3_LaTrungHoa\lab3_LaTrungHoa\obj\Debug\lab3_LaTrungHoa.Migrations.AddFollowingsTable.resources

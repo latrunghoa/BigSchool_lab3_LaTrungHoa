@@ -36,15 +36,15 @@
         max-width: 280px;
     }
 
-    /* Course layout */
-    .course {
-        list-style: none;
-    }
+/* Course layout */
+.course {
+    list-style: none;
+}
 
-        .course > li {
-            position: relative;
-            margin-bottom: 30px;
-        }
+    .course > li {
+        position: relative;
+        margin-bottom: 30px;
+    }
 
             .course > li .date {
                 text-align: center;
